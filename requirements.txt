@@ -26,3 +26,4 @@ starlette
 typing_extensions
 uvicorn
 wheel
+python-multipart
